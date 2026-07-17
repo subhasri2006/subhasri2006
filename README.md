@@ -24,37 +24,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
-public class Subhasri {
 
-    private String name = "Subhasri M";
-    private String location = "Tamil Nadu, India";
-    private String degree = "B.E. Computer Science and Engineering";
-    private String college = "Ramco Institute of Technology";
-
-    private String[] stack = {
-        "Java", "JavaScript", "SQL",
-        "React.js", "Node.js", "Express.js", "Django",
-        "MongoDB", "MySQL"
-    };
-
-    private String[] currentlyLearning = {
-        "Advanced DSA", "System Design", "Cloud Fundamentals"
-    };
-
-    private String funFact = "I once built three full-stack apps back to back "
-                            + "just to see if I could ship faster each time!";
-
-    public String motto() {
-        return "Contribute. Learn. Grow.";
-    }
-
-    public static void main(String[] args) {
-        Subhasri me = new Subhasri();
-        System.out.println(me.motto());
-    }
-}
-```
 
 <br/>
 
